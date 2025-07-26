@@ -10,6 +10,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0013-roman-to-integer) |
 ## String
 |  |
@@ -24,4 +25,12 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0217-contains-duplicate) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

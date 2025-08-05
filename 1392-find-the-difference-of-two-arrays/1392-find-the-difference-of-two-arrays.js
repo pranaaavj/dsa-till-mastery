@@ -4,14 +4,25 @@
  * @return {number[][]}
  */
 var findDifference = function (nums1, nums2) {
-  const ans = [[],[]];
+  const map1 = {}
+  const map2 = {};
 
-  for (let i = 0; i < nums1.length; i++) {
-    if (!nums2.includes(nums1[i]) && !ans[0].includes(nums1[i])) ans[0].push(nums1[i])
+  nums1.forEach((num) => map1[num] = true)
+  nums2.forEach((num) => map2[num] = true)
+
+  const ans = [[], []]
+  for (const num of nums1) {
+    if (!map2[num]) {
+      ans[0].push(num)
+      map2[num] = true
+    }
   }
 
-  for (let i = 0; i < nums2.length; i++) {
-    if (!nums1.includes(nums2[i]) && !ans[1].includes(nums2[i])) ans[1].push(nums2[i])
+  for (const num of nums2) {
+    if (!map1[num]) {
+      ans[1].push(num)
+      map1[num] = true
+    }
   }
 
   return ans

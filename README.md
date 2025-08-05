@@ -8,6 +8,7 @@
 | [0013-roman-to-integer](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0217-contains-duplicate) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/pranaaavj/dsa-till-mastery/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0001-two-sum](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0217-contains-duplicate) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/pranaaavj/dsa-till-mastery/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |

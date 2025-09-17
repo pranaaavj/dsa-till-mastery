@@ -27,6 +27,7 @@
 | [0049-group-anagrams](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0217-contains-duplicate) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pranaaavj/dsa-till-mastery/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/pranaaavj/dsa-till-mastery/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/pranaaavj/dsa-till-mastery/tree/master/2265-partition-array-according-to-given-pivot) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/pranaaavj/dsa-till-mastery/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->

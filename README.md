@@ -15,6 +15,7 @@
 | [0002-add-two-numbers](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0013-roman-to-integer) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pranaaavj/dsa-till-mastery/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0217-contains-duplicate) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pranaaavj/dsa-till-mastery/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pranaaavj/dsa-till-mastery/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pranaaavj/dsa-till-mastery/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sorting
 |  |
 | ------- |

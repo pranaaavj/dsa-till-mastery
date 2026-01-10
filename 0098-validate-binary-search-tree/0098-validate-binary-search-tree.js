@@ -11,6 +11,7 @@
  * @return {boolean}
  */
 var isValidBST = function (root) {
+
   const helper = (root, arr) => {
     if (!root) return null;
     helper(root.left, arr)
@@ -19,8 +20,10 @@ var isValidBST = function (root) {
     return arr
   }
   const btree = helper(root, []);
+
   for (let i = 0; i < btree.length; i++) {
     if (btree[i] >= btree[i + 1]) return false
   }
+
   return true
 };

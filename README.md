@@ -21,6 +21,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0049-group-anagrams) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0521-longest-uncommon-subsequence-i) |
 ## Array
 |  |
 | ------- |

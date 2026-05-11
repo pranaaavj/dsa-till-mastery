@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0217-contains-duplicate) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pranaaavj/dsa-till-mastery/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Math
@@ -28,6 +29,7 @@
 | [0001-two-sum](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0217-contains-duplicate) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/pranaaavj/dsa-till-mastery/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pranaaavj/dsa-till-mastery/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -36,6 +38,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
@@ -78,4 +81,12 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0098-validate-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

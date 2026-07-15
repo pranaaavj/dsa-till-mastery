@@ -17,6 +17,7 @@
 | [0009-palindrome-number](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0013-roman-to-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pranaaavj/dsa-till-mastery/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pranaaavj/dsa-till-mastery/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pranaaavj/dsa-till-mastery/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pranaaavj/dsa-till-mastery/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
